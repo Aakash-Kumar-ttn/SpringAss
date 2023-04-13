@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ALLASS_SPRING.iml" filepath="$PROJECT_DIR$/.idea/ALLASS_SPRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenCompleteAss/MavenAss2/Buisness/Buisness.iml" filepath="$PROJECT_DIR$/MavenCompleteAss/MavenAss2/Buisness/Buisness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenCompleteAss/MavenAss2/BusinessSecond/BusinessSecond.iml" filepath="$PROJECT_DIR$/MavenCompleteAss/MavenAss2/BusinessSecond/BusinessSecond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenCompleteAss/MavenAss2/MavenAss2.iml" filepath="$PROJECT_DIR$/MavenCompleteAss/MavenAss2/MavenAss2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenCompleteAss/MavenAssignment/MavenAssignment.iml" filepath="$PROJECT_DIR$/MavenCompleteAss/MavenAssignment/MavenAssignment.iml" />
+    </modules>
+  </component>
+</project>

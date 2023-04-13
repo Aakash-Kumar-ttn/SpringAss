@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BusinessSecond" />
+        <module name="MavenAssignment" />
+        <module name="Buisness" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Buisness" target="19" />
+      <module name="BusinessSecond" target="19" />
+      <module name="MavenAss2" target="19" />
+      <module name="MavenAssignment" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
